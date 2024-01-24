@@ -1,0 +1,9 @@
+{
+	"parent": "ercerus:windmills/big/windmill",
+	"textures": {
+		"0": "minecraft:block/jungle_planks",
+		"1": "ercerus:windmills/big/jungle_stator",
+		"2": "ercerus:windmills/big/jungle_windmill",
+		"particle": "minecraft:block/jungle_planks"
+	}
+}

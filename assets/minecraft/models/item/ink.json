@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/baloon",
+    "textures": {
+        "0": "minecraft:custom/item_ink_baloon"
+    }
+}

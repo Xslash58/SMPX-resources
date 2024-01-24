@@ -1,0 +1,53 @@
+{
+ "parent": "item/handheld",
+ "textures": {
+  "layer0": "item/flint"
+ },
+
+ "overrides": [
+   { "predicate": {"custom_model_data": 1543}, "model": "item/amcore"},
+
+   
+    { "predicate": {"custom_model_data": 3601010}, "model": "item/custom/butterfly/monarch/static"},
+    { "predicate": {"custom_model_data": 3601011}, "model": "item/custom/butterfly/monarch/flying"},
+
+    { "predicate": {"custom_model_data": 3601020}, "model": "item/custom/butterfly/zebra_longwing/static"},
+    { "predicate": {"custom_model_data": 3601021}, "model": "item/custom/butterfly/zebra_longwing/flying"},
+
+    { "predicate": {"custom_model_data": 3601030}, "model": "item/custom/butterfly/malachite/static"},
+    { "predicate": {"custom_model_data": 3601031}, "model": "item/custom/butterfly/malachite/flying"},
+
+    { "predicate": {"custom_model_data": 3601040}, "model": "item/custom/butterfly/clouded_sulphur/static"},
+    { "predicate": {"custom_model_data": 3601041}, "model": "item/custom/butterfly/clouded_sulphur/flying"},
+
+    { "predicate": {"custom_model_data": 3601050}, "model": "item/custom/butterfly/blue_morpho/static"},
+    { "predicate": {"custom_model_data": 3601051}, "model": "item/custom/butterfly/blue_morpho/flying"},
+
+    { "predicate": {"custom_model_data": 3601060}, "model": "item/custom/butterfly/colorado_hairstreak/static"},
+    { "predicate": {"custom_model_data": 3601061}, "model": "item/custom/butterfly/colorado_hairstreak/flying"},
+
+    { "predicate": {"custom_model_data": 3601070}, "model": "item/custom/butterfly/red_lacewing/static"},
+    { "predicate": {"custom_model_data": 3601071}, "model": "item/custom/butterfly/red_lacewing/flying"},
+
+    { "predicate": {"custom_model_data": 3601080}, "model": "item/custom/butterfly/apollo/static"},
+    { "predicate": {"custom_model_data": 3601081}, "model": "item/custom/butterfly/apollo/flying"},
+
+
+
+
+    { "predicate": {"custom_model_data": 3602010}, "model": "item/custom/dragonfly/blue_dasher/static"},
+    { "predicate": {"custom_model_data": 3602011}, "model": "item/custom/dragonfly/blue_dasher/flying"},
+    
+    { "predicate": {"custom_model_data": 3602020}, "model": "item/custom/dragonfly/roseate_skimmer/static"},
+    { "predicate": {"custom_model_data": 3602021}, "model": "item/custom/dragonfly/roseate_skimmer/flying"},
+
+    { "predicate": {"custom_model_data": 3602030}, "model": "item/custom/dragonfly/eastern_pondhawk/static"},
+    { "predicate": {"custom_model_data": 3602031}, "model": "item/custom/dragonfly/eastern_pondhawk/flying"},
+
+    { "predicate": {"custom_model_data": 3602040}, "model": "item/custom/dragonfly/eight_spotted_skimmer/static"},
+    { "predicate": {"custom_model_data": 3602041}, "model": "item/custom/dragonfly/eight_spotted_skimmer/flying"}
+
+ ]
+
+ 
+}

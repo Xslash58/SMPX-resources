@@ -1,0 +1,12 @@
+{
+	"parent": "block/cube",
+	"credit": "Property Of Technodono",
+	"textures": {
+		"down": "shelve:block/firelight_core_bottom",
+		"up": "shelve:block/firelight_core_top",
+		"north": "shelve:block/firelight_core_front",
+		"south": "shelve:block/firelight_core_side",
+        "east": "shelve:block/firelight_core_side",
+		"west": "shelve:block/firelight_core_side"
+	}
+}

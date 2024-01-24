@@ -1,0 +1,9 @@
+{
+	"parent": "ercerus:windmills/big/windmill",
+	"textures": {
+		"0": "minecraft:block/acacia_planks",
+		"1": "ercerus:windmills/big/acacia_stator",
+		"2": "ercerus:windmills/big/acacia_windmill",
+		"particle": "minecraft:block/acacia_planks"
+	}
+}

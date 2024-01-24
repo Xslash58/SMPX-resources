@@ -1,0 +1,15 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/snowball"
+  },
+  "overrides": [
+
+        { "predicate": {"custom_model_data": 8324400}, "model": "shelve:particle/firelight_0"},
+        { "predicate": {"custom_model_data": 8324401}, "model": "shelve:particle/firelight_1"},
+        { "predicate": {"custom_model_data": 8324402}, "model": "shelve:particle/firelight_2"},
+        { "predicate": {"custom_model_data": 8324403}, "model": "shelve:particle/firelight_3"},
+        { "predicate": {"custom_model_data": 8324404}, "model": "shelve:particle/firelight_4"}
+    
+    ]
+}

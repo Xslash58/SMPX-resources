@@ -1,0 +1,8 @@
+{
+	"parent": "block/cube_top",
+	"credit": "Property Of Technodono",
+	"textures": {
+		"side": "shelve:block/crate_side",
+		"top": "#lid"
+	}
+}

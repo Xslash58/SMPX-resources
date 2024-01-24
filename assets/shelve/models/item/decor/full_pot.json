@@ -1,0 +1,9 @@
+{
+	"parent": "block/cube_bottom_top",
+	"credit": "Property Of Technodono",
+	"textures": {
+		"side": "shelve:block/full_pot_side",
+		"bottom": "shelve:block/pot_bottom",
+		"top": "shelve:block/full_pot_top"
+	}
+}

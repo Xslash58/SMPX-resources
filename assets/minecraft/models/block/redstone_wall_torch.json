@@ -1,0 +1,160 @@
+{
+	"credit": "Made with Blockbench",
+	"ambientocclusion": false,
+	"textures": {
+		"particle": "block/redstone_torch",
+		"torch": "block/redstone_torch"
+	},
+	"elements": [
+		{
+			"from": [1.325, 0.775, 7],
+			"to": [3.325, 10.775, 9],
+			"shade": false,
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [8, 8, 8]},
+			"faces": {
+				"up": {"uv": [7, 6, 9, 8], "texture": "#torch"},
+				"down": {"uv": [7, 13, 9, 15], "texture": "#torch"}
+			}
+		},
+		{
+			"from": [1.325, 0.775, 7],
+			"to": [3.325, 10.775, 9],
+			"shade": false,
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [8, 8, 8]},
+			"faces": {
+				"east": {"uv": [7, 6, 9, 16], "texture": "#torch"},
+				"west": {"uv": [7, 6, 9, 16], "texture": "#torch"}
+			}
+		},
+		{
+			"from": [1.325, 0.775, 7],
+			"to": [3.325, 10.775, 9],
+			"shade": false,
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [8, 8, 8]},
+			"faces": {
+				"north": {"uv": [7, 6, 9, 16], "texture": "#torch"},
+				"south": {"uv": [7, 6, 9, 16], "texture": "#torch"}
+			}
+		},
+		{
+			"from": [1.325, 7.775, 6],
+			"to": [1.325, 11.775, 10],
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [8, 8, 8]},
+			"faces": {
+				"east": {"uv": [6, 5, 10, 9], "texture": "#torch"}
+			}
+		},
+		{
+			"from": [0.325, 7.775, 9],
+			"to": [4.325, 11.775, 9],
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [8, 8, 8]},
+			"faces": {
+				"north": {"uv": [6, 5, 10, 9], "texture": "#torch"}
+			}
+		},
+		{
+			"from": [3.325, 7.775, 6],
+			"to": [3.325, 11.775, 10],
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [8, 8, 8]},
+			"faces": {
+				"west": {"uv": [6, 5, 10, 9], "texture": "#torch"}
+			}
+		},
+		{
+			"from": [0.325, 7.775, 7],
+			"to": [4.325, 11.775, 7],
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [8, 8, 8]},
+			"faces": {
+				"south": {"uv": [6, 5, 10, 9], "texture": "#torch"}
+			}
+		},
+		{
+			"from": [0.325, 10.775, 6],
+			"to": [4.325, 10.775, 10],
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [8, 8, 8]},
+			"faces": {
+				"down": {"uv": [6, 5, 10, 9], "texture": "#torch"}
+			}
+		},
+		{
+			"from": [0.325, 8.775, 6],
+			"to": [4.325, 8.775, 10],
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [8, 8, 8]},
+			"faces": {
+				"up": {"uv": [6, 5, 10, 9], "texture": "#torch"}
+			}
+		},
+		{
+			"from": [0.325, 8.775, 7],
+			"to": [0.325, 10.775, 9],
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [8, 8, 8]},
+			"faces": {
+				"east": {"uv": [6, 6, 7, 7], "rotation": 90, "texture": "#torch"}
+			}
+		},
+		{
+			"from": [4.325, 8.775, 7],
+			"to": [4.325, 10.775, 9],
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [8, 8, 8]},
+			"faces": {
+				"west": {"uv": [6, 6, 7, 7], "rotation": 270, "texture": "#torch"}
+			}
+		},
+		{
+			"from": [1.325, 8.775, 10],
+			"to": [3.325, 10.775, 10],
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [8, 8, 8]},
+			"faces": {
+				"north": {"uv": [6, 6, 7, 7], "rotation": 270, "texture": "#torch"}
+			}
+		},
+		{
+			"from": [1.325, 8.775, 6],
+			"to": [3.325, 10.775, 6],
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [8, 8, 8]},
+			"faces": {
+				"south": {"uv": [6, 6, 7, 7], "rotation": 270, "texture": "#torch"}
+			}
+		},
+		{
+			"from": [1.325, 11.775, 7],
+			"to": [3.325, 11.775, 9],
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [8, 8, 8]},
+			"faces": {
+				"down": {"uv": [6, 6, 7, 7], "rotation": 270, "texture": "#torch"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "redstone_torch",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [
+				0,
+				1,
+				2,
+				{
+					"name": "thegoodpartaboutthismodel",
+					"origin": [8, 8, 8],
+					"color": 0,
+					"children": [
+						{
+							"name": "sides",
+							"origin": [8, 8, 8],
+							"color": 0,
+							"children": [3, 4, 5, 6, 7, 8]
+						},
+						{
+							"name": "backsides",
+							"origin": [8, 8, 8],
+							"color": 0,
+							"children": [9, 10, 11, 12, 13]
+						}
+					]
+				}
+			]
+		}
+	],
+	"torch": "minecraft:block/redstone_torch"
+}

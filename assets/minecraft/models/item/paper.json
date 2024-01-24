@@ -1,0 +1,15 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/paper"
+    },
+    "overrides": [
+        { "predicate": { "custom_model_data": 481900 }, "model": "item/map" },
+        { "predicate": { "custom_model_data": 626701 },"model": "ercerus:windmills/big/oak_windmill"},
+		{"predicate": {"custom_model_data":626702},"model": "ercerus:windmills/big/spruce_windmill"},
+		{"predicate": {"custom_model_data":626703},"model": "ercerus:windmills/big/birch_windmill"},
+		{"predicate": {"custom_model_data":626704},"model": "ercerus:windmills/big/jungle_windmill"},
+		{"predicate": {"custom_model_data":626705},"model": "ercerus:windmills/big/acacia_windmill"},
+		{"predicate": {"custom_model_data":626706},"model": "ercerus:windmills/big/dark_oak_windmill"}
+    ]
+}

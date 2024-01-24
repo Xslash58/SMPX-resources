@@ -1,0 +1,23 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "block/netherite_block"
+	},
+	"elements": [
+		{
+			"from": [7.5, 3.75, 8],
+			"to": [8.5, 7.75, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"north": {"uv": [13, 4, 14, 8], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"rotation": [0, 0, 180],
+			"translation": [0, 0, -7.2],
+			"scale": [0.8, 0.8, 0.8]
+		}
+	}
+}

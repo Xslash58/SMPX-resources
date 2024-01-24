@@ -1,0 +1,6 @@
+{
+    "parent": "weapons:item/warped",
+    "textures": {
+        "layer0": "weapons:item/warped_pulling_1"
+    }
+}

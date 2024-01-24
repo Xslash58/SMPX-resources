@@ -1,0 +1,9 @@
+{
+	"parent": "ercerus:windmills/big/windmill",
+	"textures": {
+		"0": "minecraft:block/spruce_planks",
+		"1": "ercerus:windmills/big/spruce_stator",
+		"2": "ercerus:windmills/big/spruce_windmill",
+		"particle": "minecraft:block/spruce_planks"
+	}
+}

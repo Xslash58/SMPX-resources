@@ -1,0 +1,12 @@
+{
+    "parent": "minecraft:item/template_spawn_egg_model",
+    "textures": {
+        "texture": "minecraft:item/turtle_spawn_egg"
+    },
+	"overrides": [
+		{ "predicate": {"custom_model_data": 1}, "model":"extra/tomate_seeds"},
+		{ "predicate": {"custom_model_data": 2}, "model":"extra/blaubeere_seeds"},
+		{ "predicate": {"custom_model_data": 3}, "model":"extra/brombeere_seeds"},
+		{ "predicate": {"custom_model_data": 4}, "model":"extra/sweet_potato_seeds"}
+	]
+}

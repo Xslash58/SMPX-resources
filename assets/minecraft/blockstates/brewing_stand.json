@@ -1,0 +1,81 @@
+{
+  "multipart": [
+    {
+      "apply": {
+        "model": "minecraft:block/brewing_stand"
+      }
+    },
+    {
+      "apply": [{"model": "minecraft:block/brewing_stand_bottle0_red","weight":1000},
+        {"model": "minecraft:block/brewing_stand_bottle0_blue","weight":1001},
+        {"model": "minecraft:block/brewing_stand_bottle0_green","weight":1002},
+        {"model": "minecraft:block/brewing_stand_bottle0_light_blue","weight":1003},
+        {"model": "minecraft:block/brewing_stand_bottle0_lime","weight":1004},
+        {"model": "minecraft:block/brewing_stand_bottle0_magenta","weight":1005},
+        {"model": "minecraft:block/brewing_stand_bottle0_orange","weight":1006},
+        {"model": "minecraft:block/brewing_stand_bottle0_pink","weight":1007},
+        {"model": "minecraft:block/brewing_stand_bottle0_purple","weight":1008},
+        {"model": "minecraft:block/brewing_stand_bottle0_yellow","weight":1009}
+      ],
+      "when": {
+        "has_bottle_0": "true"
+      }
+    },
+    {
+      "apply": [{"model": "minecraft:block/brewing_stand_bottle1_red","weight":1010},
+        {"model": "minecraft:block/brewing_stand_bottle1_blue","weight":1011},
+        {"model": "minecraft:block/brewing_stand_bottle1_green","weight":1012},
+        {"model": "minecraft:block/brewing_stand_bottle1_light_blue","weight":1013},
+        {"model": "minecraft:block/brewing_stand_bottle1_lime","weight":1014},
+        {"model": "minecraft:block/brewing_stand_bottle1_magenta","weight":1015},
+        {"model": "minecraft:block/brewing_stand_bottle1_orange","weight":1016},
+        {"model": "minecraft:block/brewing_stand_bottle1_pink","weight":1017},
+        {"model": "minecraft:block/brewing_stand_bottle1_purple","weight":1018},
+        {"model": "minecraft:block/brewing_stand_bottle1_yellow","weight":1019}
+      ],
+      "when": {
+        "has_bottle_1": "true"
+      }
+    },
+    {
+      "apply": [{"model": "minecraft:block/brewing_stand_bottle2_red","weight":1020},
+        {"model": "minecraft:block/brewing_stand_bottle2_blue","weight":1021},
+        {"model": "minecraft:block/brewing_stand_bottle2_green","weight":1022},
+        {"model": "minecraft:block/brewing_stand_bottle2_light_blue","weight":1023},
+        {"model": "minecraft:block/brewing_stand_bottle2_lime","weight":1024},
+        {"model": "minecraft:block/brewing_stand_bottle2_magenta","weight":1025},
+        {"model": "minecraft:block/brewing_stand_bottle2_orange","weight":1026},
+        {"model": "minecraft:block/brewing_stand_bottle2_pink","weight":1027},
+        {"model": "minecraft:block/brewing_stand_bottle2_purple","weight":1028},
+        {"model": "minecraft:block/brewing_stand_bottle2_yellow","weight":1029}
+      ],
+      "when": {
+        "has_bottle_2": "true"
+      }
+    },
+    {
+      "apply": {
+        "model": "minecraft:block/brewing_stand_empty0"
+      },
+      "when": {
+        "has_bottle_0": "false"
+      }
+    },
+    {
+      "apply": {
+        "model": "minecraft:block/brewing_stand_empty1"
+      },
+      "when": {
+        "has_bottle_1": "false"
+      }
+    },
+    {
+      "apply": {
+        "model": "minecraft:block/brewing_stand_empty2"
+      },
+      "when": {
+        "has_bottle_2": "false"
+      }
+    }
+  ]
+}

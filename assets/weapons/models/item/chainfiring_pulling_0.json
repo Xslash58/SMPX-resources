@@ -1,0 +1,6 @@
+{
+    "parent": "weapons:item/chainfiring",
+    "textures": {
+        "layer0": "weapons:item/chainfiring_pulling_0"
+    }
+}

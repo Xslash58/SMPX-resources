@@ -1,0 +1,8 @@
+{
+	"parent": "shelve:item/decor/template_shoji_box",
+	"credit": "Property Of Technodono",
+	"textures": {
+		"top": "shelve:block/shoji_box_top_lit",
+		"side": "shelve:block/shoji_box_side_lit"
+	}
+}

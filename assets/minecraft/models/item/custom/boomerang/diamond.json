@@ -1,0 +1,13 @@
+{
+ "parent": "item/handheld_rod",
+ "textures": {
+  "layer0": "custom/boomerang/diamond"
+ },
+ "display": {
+	"head": {
+		"rotation": [90, -190, 0],
+			"translation": [0, -15, 0],
+			"scale": [1.5, 1.5, 1.5]
+	}
+}
+}

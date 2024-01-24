@@ -1,0 +1,44 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/cake"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 26030
+      },
+      "model": "cakeslices:item/cake/one_bite"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 26031
+      },
+      "model": "cakeslices:item/cake/two_bites"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 26032
+      },
+      "model": "cakeslices:item/cake/three_bites"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 26033
+      },
+      "model": "cakeslices:item/cake/four_bites"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 26034
+      },
+      "model": "cakeslices:item/cake/five_bites"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 26035
+      },
+      "model": "cakeslices:item/cake/six_bites"
+    }
+  ]
+}

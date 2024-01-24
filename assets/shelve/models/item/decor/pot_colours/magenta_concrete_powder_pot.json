@@ -1,0 +1,7 @@
+{
+	"parent": "shelve:item/decor/template_pot",
+	"credit": "Property Of Technodono",
+	"textures": {
+		"inside": "block/magenta_concrete_powder"
+	}
+}

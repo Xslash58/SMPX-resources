@@ -1,0 +1,12 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/diamond"
+    },
+    "overrides": [
+        { "predicate": { "custom_model_data": 481901 }, "model": "jmsom:item/greater_seal" },
+        { "predicate": { "custom_model_data": 481904 }, "model": "jmsom:item/cursed_seal" },
+        { "predicate": {"custom_model_data": 7750001}, "model":"item/turquoise"}
+
+    ]
+}

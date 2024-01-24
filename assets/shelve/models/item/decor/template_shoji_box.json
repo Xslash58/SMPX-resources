@@ -1,0 +1,9 @@
+{
+	"parent": "block/cube_bottom_top",
+	"credit": "Property Of Technodono",
+	"textures": {
+		"side": "#side",
+		"top": "#top",
+		"bottom": "shelve:block/shoji_box_bottom"
+	}
+}

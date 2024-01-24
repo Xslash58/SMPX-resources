@@ -1,0 +1,7 @@
+{
+	"parent": "shelve:item/decor/template_crate",
+	"credit": "This Pack is property of Technodono",
+	"textures": {
+		"lid": "shelve:block/pufferfish_crate"
+	}
+}

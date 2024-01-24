@@ -1,0 +1,164 @@
+{
+  "sources": [
+
+    {
+      "type": "directory",
+      "source": "windmills",
+      "prefix": "windmills/"
+  },
+
+    {
+      "type": "directory",
+      "source": "custom",
+      "prefix": "custom/"
+  },
+
+  {
+    "type": "single",
+    "resource": "minecraft:blockbench/amcore"
+},
+{
+    "type": "single",
+    "resource": "minecraft:blockbench/amwand"
+},
+{
+    "type": "single",
+    "resource": "minecraft:blockbench/amgolem"
+},
+{
+    "type": "single",
+    "resource": "minecraft:blockbench/amgolemhurt"
+},
+
+
+
+  { "type": "directory",
+    "source": "gui/container",
+    "prefix": "gui/container/"
+  },
+  {
+    "type": "directory",
+    "source": "mob_trophy",
+    "prefix": "mob_trophy/"
+  },
+  {
+    "type": "directory",
+    "source": "entity",
+    "prefix": "entity/"
+  },
+  {
+    "type": "single",
+    "resource": "gui/container/shulker_box"
+  },
+  {
+    "type": "single",
+    "resource": "gui/resource_packs"
+  },
+
+
+
+
+
+
+  
+
+
+
+
+{
+    "type": "directory",
+    "source": "custom_particles",
+    "prefix": "custom_particles/"
+},
+{
+    "type": "directory",
+    "source": "loot_textures",
+    "prefix": "loot_textures/"
+},
+
+
+
+
+{
+  "type": "directory",
+  "source": "block",
+  "prefix": "block/"
+},
+{
+  "type": "directory",
+  "source": "item",
+  "prefix": "item/"
+},
+{
+  "type": "directory",
+  "source": "entity/conduit",
+  "prefix": "entity/conduit/"
+},
+{
+  "type": "single",
+  "resource": "entity/bell/bell_body"
+},
+{
+  "type": "single",
+  "resource": "entity/decorated_pot/decorated_pot_side"
+},
+{
+  "type": "single",
+  "resource": "entity/enchanting_table_book"
+},
+{
+  "type": "paletted_permutations",
+  "textures": [
+      "trims/items/leggings_trim",
+      "trims/items/chestplate_trim",
+      "trims/items/helmet_trim",
+      "trims/items/boots_trim"
+  ],
+  "palette_key": "trims/color_palettes/trim_palette",
+  "permutations": {
+      "quartz": "trims/color_palettes/quartz",
+      "iron": "trims/color_palettes/iron",
+      "gold": "trims/color_palettes/gold",
+      "diamond": "trims/color_palettes/diamond",
+      "netherite": "trims/color_palettes/netherite",
+      "redstone": "trims/color_palettes/redstone",
+      "copper": "trims/color_palettes/copper",
+      "emerald": "trims/color_palettes/emerald",
+      "lapis": "trims/color_palettes/lapis",
+      "amethyst": "trims/color_palettes/amethyst",
+      "iron_darker": "trims/color_palettes/iron_darker",
+      "gold_darker": "trims/color_palettes/gold_darker",
+      "diamond_darker": "trims/color_palettes/diamond_darker",
+      "netherite_darker": "trims/color_palettes/netherite_darker",
+      "netherite_scrap": "trims/color_palettes/netherite_scrap",
+      "flint": "trims/color_palettes/flint",
+      "scute": "trims/color_palettes/scute",
+      "prismarine": "trims/color_palettes/prismarine",
+      "purpur": "trims/color_palettes/purpur",
+      "glowstone": "trims/color_palettes/glowstone",
+      "nautilus": "trims/color_palettes/nautilus",
+      "echo_shard": "trims/color_palettes/echo_shard",
+      "glow_ink": "trims/color_palettes/glow_ink",
+      "coal": "trims/color_palettes/coal",
+      "leather": "trims/color_palettes/leather",
+      "hide": "trims/color_palettes/hide",
+      "phantom_membrane": "trims/color_palettes/phantom_membrane",
+      "gunpowder": "trims/color_palettes/gunpowder",
+      "honeycomb": "trims/color_palettes/honeycomb",
+      "dragon_breath": "trims/color_palettes/dragon_breath",
+      "slime": "trims/color_palettes/slime",
+      "magma_cream": "trims/color_palettes/magma_cream",
+      "ender_pearl": "trims/color_palettes/ender_pearl",
+      "nether_star": "trims/color_palettes/nether_star"
+  }
+}
+
+
+
+
+
+
+
+
+  ]
+}

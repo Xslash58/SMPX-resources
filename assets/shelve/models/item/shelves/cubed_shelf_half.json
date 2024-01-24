@@ -1,0 +1,12 @@
+{
+	"parent": "block/cube",
+	"credit": "Property Of Technodono",
+	"textures": {
+		"down": "shelve:block/cubed_shelf_top",
+		"up": "shelve:block/cubed_shelf_top",
+		"north": "shelve:block/cubed_shelf_half",
+		"south": "shelve:block/cubed_shelf_side",
+        "east": "shelve:block/cubed_shelf_side",
+		"west": "shelve:block/cubed_shelf_side"
+	}
+}

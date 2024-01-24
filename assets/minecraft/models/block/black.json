@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:block/baloon",
+    "textures": {
+        "0": "minecraft:custom/baloon_black"
+    }
+}
