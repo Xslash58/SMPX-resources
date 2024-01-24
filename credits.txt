@@ -1,25 +1,6 @@
-This credits file in incomplete! The full credits are listed on Discord.
-
-The credits channel on our official Discord is complete, and more up-to-date:
-https://discord.gg/qNn6yWhexC
-
-We are required to have this file here for legal reasons, but PLEASE read the Discord credits. You'll get a special role on the server, and you'll be awesome :))
-And you'll get two days of extra good luck.
-
-
-
-
-
-
-
-
-
-
-
-Credits:
-Vanilla Tweaks: https://vanillatweaks.net/
-StormDragon77 https://www.planetminecraft.com/member/stormdragon77/
-https://www.planetminecraft.com/texture-pack/adjacent/
-https://www.planetminecraft.com/member/carriecare/
-Datapack created by Technodono from: https://www.planetminecraft.com/data-pack/shelf-storage/ Other stuff: www.planetminecraft.com/member/technodono/
-Conure512 (Datapack Optimizer and Tbirds Contributor): https://www.planetminecraft.com/member/conure512/
+Spruced Vanilla:
+	Vanilla Tweaks: https://vanillatweaks.net/
+	StormDragon77 https://www.planetminecraft.com/member/stormdragon77/
+	Spruced Vanilla resource pack created by Technodono from: https://www.planetminecraft.com/member/technodono/
+	Conure512 (Spruced Vanilla resource pack optimizer and Tbirds Contributor): https://www.planetminecraft.com/member/conure512/
+	

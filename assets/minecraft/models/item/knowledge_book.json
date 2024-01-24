@@ -1,9 +1,14 @@
 {
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "minecraft:item/knowledge_book"
-  },
-            "overrides": [
- {"predicate": {"custom_model_data":83241}, "model": "shelve:item/empty"}
- ]
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "joshmats:item/crate_craft"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 83241
+            },
+            "model": "shelve:item/empty"
+        }
+    ]
 }
