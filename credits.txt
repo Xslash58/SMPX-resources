@@ -3,3 +3,18 @@ Spruced Vanilla:
 	StormDragon77 https://www.planetminecraft.com/member/stormdragon77/
 	Spruced Vanilla resource pack created by Technodono from: https://www.planetminecraft.com/member/technodono/
 	Conure512 (Spruced Vanilla resource pack optimizer and Tbirds Contributor): https://www.planetminecraft.com/member/conure512/
+	
+Dungeon Now Loading:
+	Credit to fogggy for making the Textures and Models!
+		- Golem Heart Armor Set Texture and Animation
+	Credit to Jake Williams for making the music! (https://www.jakewilliamsmusic.com/)
+		- bee_swarm = bees
+		- unused = welcome_to_hell
+	Credit to Nova for making the Textures and Models! (https://www.planetminecraft.com/member/nova_wostra/)
+		- Guardian Ghast (Default/Red/Blue/Yellow)
+		- Queen/Knight Bee
+	Credit to ruddymuddyclod for making the music! (https://soundcloud.com/barazoku)
+		- dungeon_ambient = woodland fountain 
+		- guardian_ghast = meirah
+		- phase1_guardian_ghast = meirah inu battle
+		- phase2_guardian_ghast = sister
