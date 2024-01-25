@@ -75,6 +75,18 @@
         "custom_model_data": 481054
       },
       "model": "jmmf:item/knife/diamond_knife"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 4041003
+      },
+      "model": "dnl:item/fleshbone_sword"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 4041007
+      },
+      "model": "dnl:item/poison_rapier"
     }
   ]
 }

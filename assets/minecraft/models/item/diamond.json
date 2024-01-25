@@ -1,12 +1,32 @@
 {
-    "parent": "item/generated",
-    "textures": {
-        "layer0": "item/diamond"
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/diamond"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 481901
+      },
+      "model": "jmsom:item/greater_seal"
     },
-    "overrides": [
-        { "predicate": { "custom_model_data": 481901 }, "model": "jmsom:item/greater_seal" },
-        { "predicate": { "custom_model_data": 481904 }, "model": "jmsom:item/cursed_seal" },
-        { "predicate": {"custom_model_data": 7750001}, "model":"item/turquoise"}
-
-    ]
+    {
+      "predicate": {
+        "custom_model_data": 481904
+      },
+      "model": "jmsom:item/cursed_seal"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 7750001
+      },
+      "model": "item/turquoise"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 4044002
+      },
+      "model": "dnl:item/diamond_upgrade"
+    }
+  ]
 }

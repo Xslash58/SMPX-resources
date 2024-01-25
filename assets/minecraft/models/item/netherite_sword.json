@@ -81,6 +81,18 @@
         "custom_model_data": 481055
       },
       "model": "jmmf:item/knife/netherite_knife"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 4041003
+      },
+      "model": "dnl:item/fleshbone_sword"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 4041007
+      },
+      "model": "dnl:item/poison_rapier"
     }
   ]
 }

@@ -75,6 +75,12 @@
         "custom_model_data": 481052
       },
       "model": "jmmf:item/knife/golden_knife"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 4041007
+      },
+      "model": "dnl:item/poison_rapier"
     }
   ]
 }
