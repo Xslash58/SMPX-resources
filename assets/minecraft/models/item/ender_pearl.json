@@ -1,0 +1,21 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/ender_pearl"
+  },
+    "overrides": [
+        {"predicate": {"custom_model_data":3100}, "model": "gatkong:item/black_pearl"},
+		{"predicate": {"custom_model_data":3101}, "model": "gatkong:item/cold_pearl"},
+		{"predicate": {"custom_model_data":3102}, "model": "gatkong:item/corrupted_pearl"},
+		{"predicate": {"custom_model_data":3103}, "model": "gatkong:item/cryptic_pearl"},
+		{"predicate": {"custom_model_data":3104}, "model": "gatkong:item/cursed_pearl"},
+		{"predicate": {"custom_model_data":3105}, "model": "gatkong:item/evil_pearl"},
+		{"predicate": {"custom_model_data":3107}, "model": "gatkong:item/guardian_pearl"},
+		{"predicate": {"custom_model_data":3108}, "model": "gatkong:item/lost_pearl"},
+		{"predicate": {"custom_model_data":3109}, "model": "gatkong:item/magical_pearl"},
+		{"predicate": {"custom_model_data":3110}, "model": "gatkong:item/nether_pearl"},
+		{"predicate": {"custom_model_data":3111}, "model": "gatkong:item/old_pearl"},
+		{"predicate": {"custom_model_data":3112}, "model": "gatkong:item/rogue_pearl"},
+		{"predicate": {"custom_model_data":3115}, "model": "gatkong:item/wither_pearl"}
+    ]
+}

@@ -1,0 +1,27 @@
+{
+	"credit": "Made by GatKong",
+	"textures": {
+		"0": "#eye",
+		"particle": "#eye"
+	},
+	"elements": [
+		{
+			"from": [4, 0, 4],
+			"to": [12, 3, 12],
+			"faces": {
+				"north": {"uv": [4, 0, 12, 3], "texture": "#0"},
+				"east": {"uv": [4, 0, 12, 3], "texture": "#0"},
+				"south": {"uv": [4, 0, 12, 3], "texture": "#0"},
+				"west": {"uv": [4, 0, 12, 3], "texture": "#0"},
+				"up": {"uv": [4, 4, 12, 12], "texture": "#0", "cullface": "up"}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"rotation": [0, 0, 0],
+			"translation": [0, -38.1, 0],
+			"scale": [1.7, 1.7, 1.7]
+		}
+    }
+}

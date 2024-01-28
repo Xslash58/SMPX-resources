@@ -1,0 +1,10 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/ink_sac"
+  },
+    "overrides": [
+		{"predicate": {"custom_model_data":3113}, "model": "gatkong:item/undead_soul"},
+		{"predicate": {"custom_model_data":3114}, "model": "gatkong:item/witch_pupil"}
+    ]
+}

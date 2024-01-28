@@ -1,0 +1,24 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/barrier"
+  },
+    "overrides": [
+        {"predicate": {"custom_model_data":3100}, "model": "gatkong:item/black_frame"},
+		{"predicate": {"custom_model_data":3101}, "model": "gatkong:item/cold_frame"},
+		{"predicate": {"custom_model_data":3102}, "model": "gatkong:item/corrupted_frame"},
+		{"predicate": {"custom_model_data":3103}, "model": "gatkong:item/cryptic_frame"},
+		{"predicate": {"custom_model_data":3104}, "model": "gatkong:item/cursed_frame"},
+		{"predicate": {"custom_model_data":3105}, "model": "gatkong:item/evil_frame"},
+		{"predicate": {"custom_model_data":3106}, "model": "gatkong:item/exotic_frame"},
+		{"predicate": {"custom_model_data":3107}, "model": "gatkong:item/guardian_frame"},
+		{"predicate": {"custom_model_data":3108}, "model": "gatkong:item/lost_frame"},
+		{"predicate": {"custom_model_data":3109}, "model": "gatkong:item/magical_frame"},
+		{"predicate": {"custom_model_data":3110}, "model": "gatkong:item/nether_frame"},
+		{"predicate": {"custom_model_data":3111}, "model": "gatkong:item/old_frame"},
+		{"predicate": {"custom_model_data":3112}, "model": "gatkong:item/rogue_frame"},
+		{"predicate": {"custom_model_data":3113}, "model": "gatkong:item/undead_frame"},
+		{"predicate": {"custom_model_data":3114}, "model": "gatkong:item/witch_frame"},
+		{"predicate": {"custom_model_data":3115}, "model": "gatkong:item/wither_frame"}
+    ]
+}
